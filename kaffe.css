@@ -1,0 +1,61 @@
+
+body {
+    background-color: black;
+}
+
+
+.bg-1 {
+    background-color: #a2b29b;
+    font-family: TT Chocolates TRL;
+}
+
+.bg-2 {
+    background-color: #f2eadf;
+    font-family: TT Chocolates TRL;
+}
+
+.bg-3 {
+    background-color: #a2b29b;
+    font-family: TT Chocolates TRL;
+}
+
+.bg-5 {
+    background-color: #f2eadf;
+    font-family: TT Chocolates TRL;
+}
+
+.bg-7{
+    background-color: #a2b29b;
+    font-family: TT Chocolates TRL;
+}
+
+.bg-8 {
+    background-color: #f2eadf;
+    font-family: TT Chocolates TRL;
+}
+
+
+.bg-10{
+    background-color: #f2eadf;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.bg-x { 
+    background-color: #a2b29b; /* Black Gray */
+    color: #fff;
+    font-family: TT Chocolates TRL;
+    font-size: 15px;
+  }
+  .container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
